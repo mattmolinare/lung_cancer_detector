@@ -1,0 +1,3 @@
+numpy
+pillow
+tensorflow==2.9.1
